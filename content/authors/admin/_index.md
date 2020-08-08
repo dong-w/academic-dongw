@@ -1,6 +1,6 @@
 ---
 title: Dong Wang
-role: PHD Candidate
+role: PhD Candidate
 avatar_filename: wang.jpg
 organizations:
   - name: Nara Institute of Science and Technology
@@ -25,7 +25,7 @@ social:
     link: https://github.com/dong-w
 education:
   courses:
-    - course: PhD in Software Engineering
+    - course: PhD  Candidate in Software Engineering
       institution: Nara Institute of Science and Technology
       year: 2019
     - course: M.S in Software Engineering
@@ -36,6 +36,6 @@ user_groups:
   - Researchers
   - Visitors
 ---
-A phd candidate is studying the second-year course in *Nara Institute of Science and Technology, Nara, Japan*. He belongs to *Software Engineering Laboratory* under the supervison of Prof. Kenichi Matsumoto.
+A PhD candidate is studying the second-year course in *Nara Institute of Science and Technology, Nara, Japan*. He belongs to *Software Engineering Laboratory* under the supervision of Prof. Kenichi Matsumoto.
 
 Research goals are to directly uncover empirical evidence and extracting knowledge from data recorded in software repositories. His research topis mainly focus on understanding and improving developer collaboration practices such as code review settings and various communication channels.
