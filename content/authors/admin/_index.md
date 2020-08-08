@@ -3,7 +3,7 @@ title: Dong Wang
 role: PHD Candidate
 avatar_filename: wang.jpg
 organizations:
-  - name: Stanford University
+  - name: Nara Institute of Science and Technology
     url: ""
 superuser: true
 authors:
