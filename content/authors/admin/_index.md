@@ -11,9 +11,9 @@ authors:
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Software Engineering
+  - Mining Software Repositories
+  - ""
 social:
   - icon: envelope
     icon_pack: fas
