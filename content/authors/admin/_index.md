@@ -1,7 +1,7 @@
 ---
 title: Dong Wang
 role: PhD Candidate
-avatar_filename: photo.jpg
+avatar_filename: img_6249.jpg
 organizations:
   - name: Nara Institute of Science and Technology
     url: ""
