@@ -36,6 +36,6 @@ user_groups:
   - Researchers
   - Visitors
 ---
-A PhD candidate is studying the second-year course in *Nara Institute of Science and Technology, Nara, Japan*. He belongs to *Software Engineering Laboratory* under the supervision of Prof. Kenichi Matsumoto.
+A PhD candidate is studying the second-year course in *Nara Institute of Science and Technology, Nara, Japan*. He belongs to *[Software Engineering Laboratory](https://naist-se.github.io/)* under the supervision of Prof. Kenichi Matsumoto.
 
 Research goals are to directly uncover empirical evidence and extracting knowledge from data recorded in software repositories. His research topis mainly focus on understanding and improving developer collaboration practices such as code review settings and various communication channels.
